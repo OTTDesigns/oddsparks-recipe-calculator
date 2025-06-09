@@ -25,11 +25,11 @@ A comprehensive web-based crafting calculator for the game **Oddsparks**. Calcul
 
 ## 🚀 Live Demo
 
-**[Try it now!](https://OTTDesigns-oddsparks-calculator.streamlit.app)**
+**[Try it now!]([https://OTTDesigns-oddsparks-calculator.streamlit.app](https://oddsparks-recipe-calculator.streamlit.app/))**
 
 ## 💻 Running Locally
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/oddsparks-recipe-calculator.git
+   git clone https://github.com/OTTDesigns/oddsparks-recipe-calculator.git
    cd oddsparks-recipe-calculator
