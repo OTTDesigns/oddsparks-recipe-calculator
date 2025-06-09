@@ -25,7 +25,7 @@ A comprehensive web-based crafting calculator for the game **Oddsparks**. Calcul
 
 ## 🚀 Live Demo
 
-**[Try it now!](https://your-username-oddsparks-calculator.streamlit.app)**
+**[Try it now!](https://OTTDesigns-oddsparks-calculator.streamlit.app)**
 
 ## 💻 Running Locally
 
